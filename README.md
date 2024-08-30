@@ -1,2 +1,2 @@
-# Data-Cleaning-in-SQL
-I cleaned and standardized a job layoff dataset in MySQL, addressing issues like missing values, duplicate records, and inconsistent formats. By writing complex SQL queries, I ensured data integrity and optimized the dataset for efficient analysis, enabling accurate trend insights.
+# Data Cleaning of Job Layoff Records
+In this project, I cleaned and transformed a large dataset of job layoff records in MySQL. The data was initially inconsistent, with missing values, duplicate entries, and varying formats. I standardized the data by removing duplicates, handling missing values, and normalizing the formats. This process involved writing complex SQL queries to ensure data integrity. The cleaned dataset was then optimized for efficient querying, making it readily available for analysis and enabling more accurate insights into layoff trends.
